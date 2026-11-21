@@ -13,7 +13,7 @@
 | Concepts | File Systems, Process Management, REST APIs, Markdown |
 
 ## Featured Projects
-- [CSE103 Lab — LAB 3](https://github.com/Abhishekbhidasara/Abhishekbhidasara)
+- [CSE103 Lab — LAB 3](https://github.com/Abhishekbhidasara/cse103-lab-LAB3.git)
   Git workflows, API interaction, and Markdown documentation
 
 ## Currently Working On
